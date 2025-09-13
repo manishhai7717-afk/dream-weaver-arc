@@ -22,6 +22,13 @@ export default {
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
+          glow: "hsl(var(--primary-glow))",
+        },
+        campus: {
+          blue: "hsl(var(--campus-blue))",
+          purple: "hsl(var(--campus-purple))",
+          success: "hsl(var(--campus-success))",
+          warning: "hsl(var(--campus-warning))",
         },
         secondary: {
           DEFAULT: "hsl(var(--secondary))",
